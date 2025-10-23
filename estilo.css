@@ -4,6 +4,26 @@
 body{ 
     background-color: blueviolet;
     color: aliceblue;
+    display: white;
+    justify-content: center;
+
+}
+.img01{
+width: 90%;
+}
+main{
+ text-align: center;
+ max-width: 90%;
+
+}
+.passo{
+    display: none;
+}
+.passo.ativo{
+   display: block;
+
+}
+}
 
 
 }
